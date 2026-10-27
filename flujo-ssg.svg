@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <rect width="1000" height="300" rx="18" fill="#f4f7fb"/>
+  <text x="500" y="42" font-family="Arial" font-size="23" font-weight="bold" text-anchor="middle" fill="#183153">Proceso de generación de un sitio estático</text>
+  <rect x="35" y="100" width="190" height="105" rx="12" fill="#dceafe" stroke="#4778b8" stroke-width="2"/>
+  <text x="130" y="140" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#183153">1. Contenido</text>
+  <text x="130" y="168" font-family="Arial" font-size="14" text-anchor="middle" fill="#183153">Markdown y textos</text>
+  <path d="M230 152 H270 M261 144 L271 152 L261 160" stroke="#52677f" stroke-width="3" fill="none"/>
+  <rect x="275" y="100" width="190" height="105" rx="12" fill="#e4f5e9" stroke="#43845a" stroke-width="2"/>
+  <text x="370" y="140" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#205b35">2. Plantillas</text>
+  <text x="370" y="168" font-family="Arial" font-size="14" text-anchor="middle" fill="#205b35">Diseño y estructura</text>
+  <path d="M470 152 H510 M501 144 L511 152 L501 160" stroke="#52677f" stroke-width="3" fill="none"/>
+  <rect x="515" y="100" width="190" height="105" rx="12" fill="#fff0d6" stroke="#b47a21" stroke-width="2"/>
+  <text x="610" y="140" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#754b0c">3. Generador</text>
+  <text x="610" y="168" font-family="Arial" font-size="14" text-anchor="middle" fill="#754b0c">Proceso de build</text>
+  <path d="M710 152 H750 M741 144 L751 152 L741 160" stroke="#52677f" stroke-width="3" fill="none"/>
+  <rect x="755" y="100" width="210" height="105" rx="12" fill="#eadfff" stroke="#8663b5" stroke-width="2"/>
+  <text x="860" y="135" font-family="Arial" font-size="17" font-weight="bold" text-anchor="middle" fill="#50377b">4. Publicación</text>
+  <text x="860" y="160" font-family="Arial" font-size="14" text-anchor="middle" fill="#50377b">HTML, CSS y JS</text>
+  <text x="860" y="181" font-family="Arial" font-size="14" text-anchor="middle" fill="#50377b">Servidor web</text>
+  <text x="500" y="252" font-family="Arial" font-size="15" text-anchor="middle" fill="#34465d">El servidor entrega los archivos generados cuando el usuario visita la web.</text>
+</svg>
