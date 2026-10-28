@@ -43,3 +43,17 @@ En conjunto, los puntos fuertes (A4 y A7 con puntuación completa) compensan par
 | --- | --- | --- |
 | P1 | cms.md: [apartado]. | Falta un ranking o datos de cuota del mercado. Puedes resolverlo añadiendo en el cms.md, una tabla con los 5 cms más usados junto a sus porcentajes, indicando informacion como su fuente, la fecha de los datos. | 
 | P2 | ssg.md: [apartado]. | Falta imagenes que puedan hacer referencia a la informacion mencionada, además, dichas imagenes pueden servir de apoyo para quien lo lea pueda relacionar el tema adecuadamente. Puedes resolverlo añadiendo imagenes en ssg.md. | 
+
+
+
+## D. Respuesta y correcciones del propietario del proyecto
+
+**Cumplimenta:** Francisco Bustillos
+
+**Qué he aprendido al corregir mi trabajo:**
+Al aplicar las propuestas he comprobado que un contenido técnico se entiende mejor cuando se apoya en datos verificables y en esquemas visuales. Los porcentajes de uso con fuente y fecha hacen que la información sea contrastable, y separar los CMS por finalidad y por arquitectura evita mezclar criterios distintos. Además, un esquema del proceso de un SSG ayuda a entender el flujo completo mejor que solo una imagen aislada.
+
+| Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
+|---|---|---|---|
+| P1 | **Aceptada.** La propuesta mejora el apartado porque aporta datos contrastables y una clasificación más clara. | En `cms.md`, apartado «Sus tipos y ejemplos» y sección de estadísticas: añadido ranking de los cinco CMS más utilizados con porcentaje de uso, fuente ([fuente, p. ej. W3Techs]) y fecha de los datos ([mes y año]). Separada la clasificación por finalidad de la clasificación por arquitectura, con ejemplos en ambas. | [fbe42b4](https://github.com/francisco-bustillos/Practica-2/commit/fbe42b4f7c060819629f0030a765766e879e7112) |
+| P2 | **Aceptada.** El esquema complementa la imagen actual y explica el proceso completo. | En `ssg.md`, apartado «Qué es un SSG»: añadido un esquema del proceso (contenido y plantillas → generación de HTML → publicación), colocado debajo de la imagen existente, con una breve explicación de cada paso. | [b794c04](https://github.com/francisco-bustillos/Practica-2/commit/b794c040861c2e21ab90e6db949e5d61cf694d44) |
